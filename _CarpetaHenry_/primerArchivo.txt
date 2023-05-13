@@ -1,0 +1,2 @@
+🟣 Crear un archivo 
+🟢 Realizar el commit correspondiente al archivo "primerArchivo.txt"
